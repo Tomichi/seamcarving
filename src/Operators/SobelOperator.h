@@ -1,0 +1,16 @@
+//
+// Created by tomchi on 5/15/20.
+//
+
+#ifndef SEAMCARVING_SRC_OPERATORS_SOBELOPERATOR_H_
+#define SEAMCARVING_SRC_OPERATORS_SOBELOPERATOR_H_
+
+
+
+class SobelOperator {
+
+};
+
+
+
+#endif //SEAMCARVING_SRC_OPERATORS_SOBELOPERATOR_H_
