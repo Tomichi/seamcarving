@@ -1,6 +1,6 @@
 # SeamCarving
 
-SeamCarving is my own implementation of seam caring algorithm written which is written in C++11.
+SeamCarving is my own implementation of seam carving algorithm written in C++11.
 
 ## Setup
 - Be sure, that you have installed cmake, git, gcc, openCV
